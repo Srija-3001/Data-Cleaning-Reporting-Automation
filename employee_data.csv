@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary
+101,John,HR,50000
+102,Alice,IT,60000
+103,Bob,Finance,
+104,John,HR,50000
+105,Emma,IT,65000
+106,,Finance,55000
+107,David,IT,62000
+108,Sophia,HR,
+109,Michael,Finance,58000
+110,Emma,IT,65000
